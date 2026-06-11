@@ -1,21 +1,98 @@
-MIT License
+NON-COMMERCIAL OPEN SOURCE LICENSE AGREEMENT (EDUCATIONAL & CAREER TRANSITION FOCUS)
 
-Copyright (c) 2026 Charly
+Copyright (c) 2026 [Julian Beckmann]
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+DIESES SOFTWAREWERK UND DIE ZUGEHÖRIGE DOKUMENTATION (SOWIE „DAS WERK") 
+WERDEN HIERMIT UNTER DEN FOLGENDEN BEDINGUNGEN VERFÜGBAR GEMACHT:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+§1 AUSDRÜCKLICH ERLAUBTE NUTZUNG (BILDUNG & KARRIERE)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Jede natürliche Person darf diese Software kostenlos erhalten, nutzen, studieren, 
+verändern und weiterverteilen. Dies gilt ausdrücklich als **Projektbasis** und 
+**Lernhilfe** für folgende Zielgruppen und Zwecke:
+
+    A. Akademische Bildung: Nutzung als Übungsbasis für Studium, Lehre oder 
+       Forschungsprojekte an Hochschulen und Schulen.
+    B. Berufliche Ausbildung & Duales Lernen: Verwendung im Rahmen von 
+       Ausbildungen (Azubis), Lehrgängen oder betrieblicher Weiterbildung.
+    C. Umschulung & Quereinstieg: Explizite Erlaubnis zur Nutzung als 
+       Praxisprojekt für Personen, die sich neu orientieren, umstellen oder 
+       einen Karrierewechsel vollziehen (z.B. Quereinsteiger in IT-Berufe).
+    D. Abschlussarbeiten & Projekte: Einbindung in Bachelor-/Masterarbeiten, 
+       Projektdokumentationen, Präsentationen oder Portfolio-Arbeiten ohne 
+       Entgeltforderung.
+    E. Private Entwicklung & Home-Lab: Betrieb im eigenen Haushalt oder persönlicher 
+       NAS-Umgebung zum Zweck des Lernens und Experimentierens.
+    F. Open-Source-Projekte: Einbindung in andere nicht-kommerzielle Projekte.
+    G. Weitergabe: Verteilung des Originalcodes oder von Modifikationen an Dritte 
+       für nicht-kommerzielle Lernzwecke.
+
+Die Nutzung als **Basis für eigene Projekte**, um Programmierkenntnisse (C++, 
+Netzwerktechnik, Server-Administration) zu vertiefen oder praktische Erfahrungen 
+zu sammeln, ist ausdrücklich erwünscht und geschätzt.
+
+§2 VERBOTENE NUTZUNG (KEINE KOMMERZIELLE ANWENDUNG)
+
+Es ist STRICTLY FORBIDDEN (strengstens untersagt), dieses Werk unter folgenden 
+Umständen zu nutzen:
+
+    A. Verkauf: Die Software oder darauf basierende Werke dürfen nicht verkauft 
+       werden.
+    B. Bezahlte Dienstleistungen: Es ist untersagt, den Server als gehostete 
+       Dienstleistung gegen Gebühr anzubieten (z.B. Cloud-Hosting, SaaS, 
+       kommerzielle Speicherlösungen).
+    C. Kommerzielle Produkte: Die Integration der Software in gewinnorientierte 
+       Produkte oder Services (Hardware/Software-Bundles, Firmenlösungen).
+    D. Werbung & Promotion: Nutzung für kommerzielle Marketing-Zwecke.
+    E. Unternehmensumgebung: Nutzung innerhalb einer gewerblichen Firma mit dem 
+       Ziel der Gewinnmaximierung oder Kosteneinsparung.
+    F. Bezahlte Trainings: Die Nutzung in kostenpflichtigen Seminaren oder 
+       Schulungen, bei denen Teilnehmer eine Gebühr zahlen (außer als reine 
+       Demo für eine freie Einführungsvorlesung).
+
+Wer die Software kommerziell nutzen möchte, muss eine separate schriftliche 
+Genehmigung beim Urheber einholen ([julianbeckmann.eu@proton.me]).
+
+§3 URHEBERRECHTSHINWEIS
+
+Bei jeglicher Vervielfältigung, Änderung oder Weiterverbreitung müssen der 
+ursprüngliche Copyright-Hinweis (Copyright (c) 2026 [Julian Beckmann]) sowie dieser 
+Lizenztext vollständig und unverändert erhalten bleiben.
+In akademischen Arbeiten, Projektberichten oder Portfolios ist eine Quellenangabe 
+höflich, aber keine zwingende Pflicht, solange §4 eingehalten wird.
+
+§4 HAFTUNGSAUSSCHLUSS (DISCLAIMER)
+
+DIESE SOFTWARE WIRD OHNE JEGLICHE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GARANTIE 
+BEREITGESTELLT. DIES GILT EINSCHLIESSLICH DER STILLSCHWEIGENDEN GARANTIEN DER 
+MARKTGÄNGIGKEIT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND NICHTVERLETZUNG VON 
+RECHTEN DRITTER. 
+
+IN KEINEM FALL HAFTET DER URHEBER ODER COPYRIGHTINHABER FÜR JEGLICHE ANSPRÜCHE, 
+SCHÄDEN ODER ANDERE HAFTUNGEN (EGAL OB VERTRAG, DELIKT ODER ANDERWEITIG), DIE 
+SICH AUS ODER IN VERBINDUNG MIT DER NUTZUNG DER SOFTWARE ENTSTEHEN. 
+DER NUTZER TRAGT DAS VOLLE RISIKO.
+
+§5 DATENSICHERHEIT
+
+Der Nutzer wird ausdrücklich darauf hingewiesen, dass diese Software als 
+Open-Source-Projekt in Entwicklung gilt. Es werden keine Garantien für 
+Sicherheit, Datenschutz oder Integrität der gespeicherten Daten übernommen. 
+Eine Nutzung in produktiven Umgebungen erfolgt auf eigene Gefahr.
+
+================================================================================
+VOLLSTÄNDIGKEIT DER LIZENZ
+================================================================================
+Diese Lizenz regelt ausschließlich die Nutzungsrechte. Sollte eine Bestimmung 
+dieser Lizenz unwirksam sein, bleiben alle anderen Bestimmungen unberührt.
+Für die Geltendmachung von Ansprüchen gilt das Recht des Landes, in dem der 
+Urheber seinen Wohnsitz hat.
+
+================================================================================
+KONTAKT FÜR LIZENZANFRAGEN
+================================================================================
+Bei Fragen zur kommerziellen Nutzung oder speziellen Anfragen für Bildungskontexte 
+kontaktieren Sie bitte:
+Mail: [julianbeckmann.eu@proton.me]
+
+Dieses Dokument wurde am 11.06.2026 erstellt.
