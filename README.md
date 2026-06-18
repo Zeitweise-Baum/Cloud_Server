@@ -128,6 +128,7 @@ Pull Requests sind willkommen, insbesondere für:
     Behebung von gefundenen Bugs.
 
 Bitte beachten Sie beim Einreichen von Änderungen, dass diese weiterhin unter der Nicht-Kommerziellen Lizenz bleiben müssen.
+
 Kontakt
 
 Bei Fragen zur technischen Umsetzung, zur Lizenznutzung im Bildungskontext oder bei Interesse an einer separaten kommerziellen Lizenzvereinbarung, wenden Sie sich bitte an:
