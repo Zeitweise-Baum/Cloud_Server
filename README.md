@@ -56,7 +56,7 @@ Um diesen Server zu kompilieren und auszuführen, werden folgende Voraussetzunge
 Installation und Build-Prozess
 1. Repository klonen
 
-git clone https://github.com/<DEIN_USERNAME>/CloudServer_Proton.git
+git clone https://github.com/Zeitweise-Baum/CloudServer_Proton.git
 cd CloudServer_Proton
 
 2. Kompilieren
