@@ -54,6 +54,7 @@ Um diesen Server zu kompilieren und auszuführen, werden folgende Voraussetzunge
     Portzugriff: Zugriff auf Port 8080 (oder Konfiguration im Quellcode).
 
 Installation und Build-Prozess
+
 1. Repository klonen
 
 git clone https://github.com/Zeitweise-Baum/CloudServer_Proton.git
@@ -66,6 +67,7 @@ Erstellen Sie die ausführbare Datei mit dem C++ Compiler. Da mehrere Quelldatei
 g++ -std=c++17 -pthread main.cpp -o CloudServer
 
 Falls Fehler auftreten, stellen Sie sicher, dass alle Header-Dateien (*.h) und Implementierungsdateien (*.cpp) im selben Verzeichnis liegen.
+
 3. Starten des Servers
 
 ./CloudServer
